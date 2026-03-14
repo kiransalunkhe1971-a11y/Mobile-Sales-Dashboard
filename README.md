@@ -128,7 +128,7 @@ The dashboard includes the following insights:
 ---
 
 ## 📷 Dashboard Preview
-https://github.com/kiransalunkhe1971-a11y/Mobile-Sales-Dashboard/blob/main/Screenshot%20(859).png
-https://github.com/kiransalunkhe1971-a11y/Mobile-Sales-Dashboard/blob/main/Screenshot%20(860).png
-https://github.com/kiransalunkhe1971-a11y/Mobile-Sales-Dashboard/blob/main/Screenshot%20(861).png
+Show what the dashboard look like- ([Alt txt](https://github.com/kiransalunkhe1971-a11y/Mobile-Sales-Dashboard/blob/main/Screenshot%20(859).png)
+Show what the dashboard look like- ([Alt txt](https://github.com/kiransalunkhe1971-a11y/Mobile-Sales-Dashboard/blob/main/Screenshot%20(860).png)
+Show what the dashboard look like- ([Alt txt](https://github.com/kiransalunkhe1971-a11y/Mobile-Sales-Dashboard/blob/main/Screenshot%20(861).png)
 `
